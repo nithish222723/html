@@ -1,0 +1,11 @@
+#img{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    margin-left: 1200px;
+    margin-right: -80px;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+}
