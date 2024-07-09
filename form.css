@@ -1,0 +1,28 @@
+label {
+     
+}
+form{
+    
+    background-color: rgb(75,155,189);
+
+}
+h1{
+    
+}
+.submit{
+    padding: 10px;
+}
+body{
+    
+    background-color: lightblue;
+}
+input[type=submit]{
+    background-color: rgb(88,154,99);
+}
+input[type=submit]:hover{
+    background-color: rgb(6,109,23);
+}
+
+table{
+    margin: 0 auto;
+}
